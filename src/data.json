@@ -1,0 +1,88 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Devi Sri",
+                "email":"devisrimacharla7@gmail.com",
+                "mobile":"+91 9176950234"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90",
+                    "Institute":"Narayana"
+                },
+                {
+                    "degree":"Intermediate  (M.P.C)",
+                    "percentage":"90",
+                    "Institute":"Narayana"
+                },
+                {
+                    "degree":"B.tech (C.S.E)",
+                    "percentage":"83",
+                    "Institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["c","c++","JAVA","Python","Ruby","ADA"]
+                },
+                {
+                    "type":"WEB Technologies",
+                    "values":["HTML","CSS","JAVA SCRIPT"]
+                },
+                {
+                    "type":"Frame works and libraries",
+                    "values":["React JS"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["UBUNTU","WINDOWS","LINUX","MAC"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"Mohana Chandrika",
+                "email":"mchandrika.kothapalii@gmail.com",
+                "mobile":"+91 7036904626"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"98",
+                    "Institute":"Sri Chaitanya High School"
+                },
+                {
+                    "degree":"Intermediate  (M.P.C)",
+                    "percentage":"90",
+                    "Institute":"Sri Chaitanya Junior college"
+                },
+                {
+                    "degree":"B.tech (C.S.E)",
+                    "percentage":"84",
+                    "Institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["c","c++","JAVA","Python","Ruby","ADA"]
+                },
+                {
+                    "type":"WEB Technologies",
+                    "values":["HTML","CSS","JAVA SCRIPT"]
+                },
+                {
+                    "type":"Frame works and libraries",
+                    "values":["React JS"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["UBUNTU","WINDOWS","LINUX","MAC"]
+                }
+            ] 
+        }
+    ]
+}
